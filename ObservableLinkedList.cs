@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Text;
 
-namespace LinqExtensions
+namespace ObjectModelExtensions
 {
     /// ORIGINAL CODE AUTHOR – https://stackoverflow.com/a/6998882/6897369
     /// <summary>
